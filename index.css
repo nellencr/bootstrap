@@ -68,6 +68,12 @@ select {
 html {
   font-family: "Roboto Condensed", Arial, Helvetica, sans-serif;
   overflow-x: hidden;
+  font-family: "Roboto Condensed", sans-serif;
+  
+}
+
+body {
+line-height: 1;
 }
 
 /* style start 
@@ -88,3 +94,32 @@ header {
 
   margin: 0 auto;
 }*/
+
+.first-class {
+  color: #666;
+}
+
+.second-card {
+  color: rgb(247, 34, 16);
+  font-size: 17px;
+  position: absolute !important;
+  top: 203px;
+}
+
+.first-h {
+  line-height: 1;
+}
+
+.sec-card {
+  color: rgb(247, 34, 16);
+  position: absolute;
+  top: 636px;
+}
+
+.secon-card {
+  color: rgb(247, 34, 16);
+}
+
+.cultur {
+  color: #666;
+}
