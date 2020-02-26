@@ -99,22 +99,11 @@ header {
   color: #666;
 }
 
-.second-card {
-  color: rgb(247, 34, 16);
-  font-size: 17px;
-  position: absolute !important;
-  top: 203px;
-}
+.
 
 .first-h {
   line-height: 1;
-}
 
-.sec-card {
-  color: rgb(247, 34, 16);
-  position: absolute;
-  top: 636px;
-}
 
 .secon-card {
   color: rgb(247, 34, 16);
@@ -122,4 +111,23 @@ header {
 
 .cultur {
   color: #666;
+}
+
+.in {
+  background-color: rgb(247, 34, 16);
+  color: white;
+} 
+
+.color-white {
+  background-color: 
+  color:white;
+} 
+
+.editor-wrap {
+  position: sticky;
+  top:0
+}
+
+.imge{
+  position: relative;
 }
